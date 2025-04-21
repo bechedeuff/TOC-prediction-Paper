@@ -18,7 +18,12 @@ conda create -n toc_prediction python=3.11
 conda activate toc_prediction
 ```
 
-3. Install required packages:
+2. Using the environment.yml file:
+```bash
+conda env create -f environment.yml
+```
+
+3. Install required packages (if you didn't use the environment.yml file):
 ```bash
 pip install -r requirements.txt
 ```
@@ -145,6 +150,11 @@ trainers = [
 
 ## Requirements
 
+The project dependencies are managed through either:
+- `environment.yml` (for Conda users)
+- `requirements.txt` (for pip users)
+
+Key dependencies include:
 - Python 3.11
 - pandas==2.2.3
 - numpy==2.1.3
