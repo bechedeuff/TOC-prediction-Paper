@@ -1,8 +1,8 @@
 # TOC Prediction Project
 
-This project contains scripts for the paper "TOC Prediction from Well Logs Using Gradient Boosting and Neural Network in the Santos Basin, SE Brazil" submitted to the Marine and Petroleum Geology Journal. 
+This project contains scripts for the paper "TOC Prediction from Well Logs Using Gradient Boosting and Neural Network in the Santos Basin, SE Brazil" submitted to the Computers & Geosciences. 
 
-SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5211368
+SSRN: 
 
 ## Environment Setup
 
